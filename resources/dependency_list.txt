@@ -1,0 +1,14 @@
+GPIO->FaultHandler
+RegDef->Timer
+RegDef->GPIO
+RegDef->PLL
+GPIO->ADC
+GPIO->DAC
+GPIO->SSI
+GPIO->PWM
+GPIO->UART
+GPIO->I2C
+Timer->PWM
+CAN
+QEI
+startup
